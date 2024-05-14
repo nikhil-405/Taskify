@@ -1,0 +1,5 @@
+Below is the exhaustive list of the pip installable libraries for the project
+
+* tabulate
+* pandas
+* pytest
